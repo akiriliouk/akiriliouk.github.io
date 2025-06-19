@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Short bio or about me"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,19 +13,16 @@ of Namur](https://unamur.be) since September 2018. Before that, I was affiliated
 My main research field is extreme value theory, with a focus on environmental applications, the development of statistical methodology for multivariate extremes,
 ​high-dimensional modelling, and spatial extremes. Recently, I've been particularly interested in topics related to the climate sciences, such as climate extreme event attribution and compound extremes.
 
-News
-======
-- New paper submitted
-- I'm presenting
+# News
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+### 2025
+- Oct: Invited talk "*A penalized least squares estimator for extreme-value models with multiple extreme directions*" at the [65th ISI World Statistics Congress](https://www.isi-next.org/conferences/isi-wsc2025/)
+- Sept: I have moved from [UNamur](https://unamur.be/en) to [UCLouvain](https://www.uclouvain.be/en), to the [Institute of Statistics, Biostatistics and Actuarial Sciences](https://www.uclouvain.be/en/research-institutes/lidam/isba)
+- June: New paper "*A penalized least squares estimator for extreme-value mixture models*" (with Anas Mourahib and Johan Segers) on [ArXiv](https://arxiv.org/abs/2506.15272) 
+- June: invited talk "*X-Vine models for multivariate Extremes*" at [EVA 2025](https://eva2025.unc.edu/venue/)
+- Feb: our project EXALT is in [Daily Science](https://dailyscience.be/05/02/2025/evenements-climatiques-extremes-anticiper-linattendu/) (interview in French)
+- Feb: invited seminar "*Estimating probabilities of multivariate failure sets based on pairwise tail dependence coefficients*" in the [EVTA seminar series](https://evta-seminar.nl/about/)
+<!-- August: My PhD student Anas Mourahib has just defended his thesis: congratulations! He'll be pursuing a post-doc at Eindhoven University -->
 
 
 **Markdown generator**
@@ -40,6 +37,3 @@ Many people use a git client to create files on their local computer and then pu
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
