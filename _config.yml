@@ -22,14 +22,14 @@ repository               : "akiriliouk/akiriliouk.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Anna Kiriliouk"
   pronouns         : # example: "she/her"  
   bio              : "Assistant professor in Statistics"
-  location         : "Namur, Belgium"
-  employer         : "University of Namur"
+  location         : "Louvain-la-Neuve, Belgium"
+  employer         : "Université catholique de Louvain (UCLouvain)"
   uri              : # URL
-  email            : "anna.kiriliouk@unamur.be" 
+  email            : "anna.kiriliouk@uclouvain.be" 
 
   # Academic websites
   academia         : # URL
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/anna-kiriliouk-78565541/
+  linkedin         : anna-kiriliouk-78565541
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
