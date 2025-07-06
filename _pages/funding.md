@@ -1,6 +1,6 @@
 	---
 layout: archive
-title: "Current research funding"
+title: "Funding"
 permalink: /funding/
 ---
 
