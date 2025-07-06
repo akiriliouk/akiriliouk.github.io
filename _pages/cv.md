@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Download my cv [here](/files/2026-06-CV.pdf)
+Download my cv [here](/files/2025-06-CV.pdf)
