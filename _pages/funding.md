@@ -1,8 +1,9 @@
-	---
+---
 layout: archive
 title: "Funding"
 permalink: /funding/
 ---
+
 
 {% include base_path %}
 
