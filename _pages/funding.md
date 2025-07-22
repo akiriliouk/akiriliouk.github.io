@@ -17,7 +17,7 @@ The overall objective of EXALT is to introduce a novel comprehensive framework f
 
 ## MIS (Mandat d'impulsion scientifique), 2024-2028, UCLouvain/UNamur
 
-*Flexible statistical models for compound climate events**
+*Flexible statistical models for compound climate events*
 
 Funding instrument of the [F.R.S-FNRS](https://www.frs-fnrs.be/en/) to support young permanent researchers who seek to develop a scientific unit focusing on a future-oriented area within their university.
 
