@@ -11,7 +11,7 @@ redirect_from:
 
 My main research field is extreme value theory, with a focus on environmental applications, the development of statistical methodology for multivariate extremes, ​high-dimensional modeling, and spatial extremes. Recently, I've been particularly interested in topics related to the climate sciences, such as climate extreme event attribution and compound extremes.
 
-Don't hesitate to contact me if you're looking for a PhD or post-doc position!
+I currently have an open position for a **18-month post-doctoral researcher**, see [here](/files/Postdoc-grant-MIS.pdf) for the offer. Don't hesitate to contact me if you're looking for a position that starts later, I'll be recruiting again next year! 
 
 ## Publications
 
