@@ -27,9 +27,4 @@ parameters of such models with the goal of inferring failure probabilities for m
 improve their precision via data augmentation and (iii) project climate-induced risks of some major compound
 events in terms of global warming.
 
-## FED-tWIN, 2025-2034, UNamur/RMI
-
-*attributioN of EXtreme climaTe events based on advanced STATistical and dynamical theories (NEXT-STAT)*
-
-Interdisciplinary project involving the UNamur Institute for complex systems ([NaXys](https://www.naxys.be/)) and the Royal Meteorological Institute of Belgium ([RMI](https://www.meteo.be/en/belgium)), funded by the Belgian Science Policy ([BELSPO](https://www.belspo.be/belspo/index_en.stm)). Co-supervised by [Stéphane Vannitsem](https://www.meteo.be/en/belgium) (RMI) and [Timoteo Carletti](https://www.unamur.be/en/profil/tcarlett) (UNamur).
 
