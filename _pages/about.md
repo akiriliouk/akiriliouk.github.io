@@ -9,9 +9,9 @@ redirect_from:
 
 ​I am an assistant professor in Statistics at the [Institute of Statistics, Biostatistics and Actuarial Sciences (ISBA)](https://www.uclouvain.be/en/research-institutes/lidam/isba), part of the [Louvain Institute of Data Analysis and Modeling in economics and statistics (LIDAM)](https://www.uclouvain.be/en/research-institutes/lidam) of the [UCLouvain](https://www.uclouvain.be/en). 
 
-My main research field is extreme value theory, with a focus on environmental applications, the development of statistical methodology for multivariate extremes, ​high-dimensional modeling, and spatial extremes. Recently, I've been particularly interested in topics related to the climate sciences, such as climate extreme event attribution and compound extremes.
+My main research field is extreme value theory, with a focus on environmental applications, the development of statistical methodology for multivariate extremes, high-dimensional modeling, and spatial extremes. Recently, I've been particularly interested in topics related to the climate sciences, such as climate extreme event attribution and compound extremes.
 
-For the one-day workshop on *Learning spatio-temporal climate extremes* on 27 May 2026, see [here](https://exalt-project.github.io/workshop-2026/).
+I currently have an open PhD position and a post-doctoral position (both co-supervised by Francesco Ragone from the University of Leicester), see [here](/files/ARCphd.pdf) and [here](/files/ARCpostdoc.pdf).
 
 ## Publications
 
@@ -19,6 +19,8 @@ Please see my [Google scholar](https://scholar.google.be/citations?user=vTB1vq4A
 
 ## News
 
+- July 2026: talk "*A sub-asymptotic model for bivariate threshold exceedances*" at the 7th International Conference on Advances in Extreme Value Analysis and Application to Natural Hazards, [EVAN2026](https://evan2026.weebly.com/), in Delft, the Netherlands.
+- May 2026: we've organized a workshop on *Learning spatio-temporal climate extremes* at UCLouvain, see [here](https://exalt-project.github.io/workshop-2026/) for more information.
 - May 2026: welcome to two new post-doctoral researchers, Caroline Cognot and Tommaso Martini!
 - May 2026: Invited talk "*A penalized least squares estimator for extreme-value models with multiple extreme directions*" at the [Workshop on Recent Advances in Extreme Value Analysis](https://sites.google.com/site/jefconference) in Rabat, Morocco. 
 - April 2026: New paper "*A sub-asymptotic model for bivariate threshold exceedances*" (with Mirco Lescart and Philippe Naveau) on [arXiv](https://arxiv.org/abs/2604.12405).
