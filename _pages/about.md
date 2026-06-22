@@ -11,8 +11,6 @@ redirect_from:
 
 My main research field is extreme value theory, with a focus on environmental applications, the development of statistical methodology for multivariate extremes, high-dimensional modeling, and spatial extremes. Recently, I've been particularly interested in topics related to the climate sciences, such as climate extreme event attribution and compound extremes.
 
-I currently have an open PhD position and a post-doctoral position (both co-supervised by Francesco Ragone from the University of Leicester), see [here](/files/ARCphd.pdf) and [here](/files/ARCpostdoc.pdf).
-
 ## Publications
 
 Please see my [Google scholar](https://scholar.google.be/citations?user=vTB1vq4AAAAJ&hl=en) profile.
